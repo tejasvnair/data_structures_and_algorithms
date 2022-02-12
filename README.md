@@ -4,3 +4,4 @@
 
 *  **[Rotate Image](https://leetcode.com/problems/rotate-image/)** - rotate_image.py 
 *  **[Two Sum](https://leetcode.com/problems/two-sum/)** - two_sum.py
+*  **[Insert Interval](https://leetcode.com/problems/insert-interval/)** - insert_interval.py
