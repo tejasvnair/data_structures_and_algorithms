@@ -6,3 +6,4 @@
 *  **[Two Sum](https://leetcode.com/problems/two-sum/)** - two_sum.py
 *  **[Insert Interval](https://leetcode.com/problems/insert-interval/)** - insert_interval.py
 *  **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)** - minimum_window_substring.py
+*  **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)** - group_anagrams.py
