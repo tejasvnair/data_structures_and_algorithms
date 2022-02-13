@@ -12,3 +12,4 @@ def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         # append strs[i] to appropriate key value (based on count array)
         hash_map[tuple(count)].append(strs[i])
     return hash_map.values()
+
