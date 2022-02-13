@@ -1,6 +1,6 @@
 def minWindow(self, s: str, t: str) -> str:
-    # Time complexity: O(n) => n = len(s)
-    # Space complexity: O(m) => m = len(t)
+    # Time complexity: O(m) => m = len(s)
+    # Space complexity: O(n) => n = len(t)
     # Hashtable to track the window's characters
     window_s = {}
     # Hashtable to track t's characters
