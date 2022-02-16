@@ -9,3 +9,4 @@
 *  **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)** - group_anagrams.py
 *  **[Word Search](https://leetcode.com/problems/word-search/)** - word_search.py
 *  **[Missing Number](https://leetcode.com/problems/missing-number/)** - missing_number.py
+*  **[Valid Binary Search Tree](https://leetcode.com/problems/valid-binary-search-tree/)** - valid_binary_search_tree.py
