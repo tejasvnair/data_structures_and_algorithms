@@ -24,3 +24,5 @@ class Solution:
                 return dfs(root.left, lbound, root.val) and dfs(root.right, root.val, rbound)
                 
         return dfs(root, float(-inf), float(inf))
+
+        
