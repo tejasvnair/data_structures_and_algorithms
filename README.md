@@ -8,3 +8,4 @@
 *  **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)** - minimum_window_substring.py
 *  **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)** - group_anagrams.py
 *  **[Word Search](https://leetcode.com/problems/word-search/)** - word_search.py
+*  **[Missing Number](https://leetcode.com/problems/missing-number/)** - missing_number.py
