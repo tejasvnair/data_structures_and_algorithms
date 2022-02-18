@@ -14,3 +14,4 @@
 *  **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** - reverse_linked_list.py
 *  **[Reorder List](https://leetcode.com/problems/reorder-list/)** - reorder_list.py
 *  **[Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/)** - number_of_1_bits.py
+*  **[Word Break](https://leetcode.com/problems/word-break/)** - word_break.py
