@@ -17,3 +17,4 @@
 *  **[Word Break](https://leetcode.com/problems/word-break/)** - word_break.py
 *  **[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)** - meeting_rooms.py
 *  **[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)** - meeting_rooms_ii.py
+*  **[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)** - lowest_common_ancestor_of_a_bst.py
