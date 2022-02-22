@@ -20,3 +20,5 @@
 *  **[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)** - lowest_common_ancestor_of_a_bst.py
 *  **[Counting bits](https://leetcode.com/problems/counting-bits/)** - counting_bits.py
 *  **[Course Schedule](https://leetcode.com/problems/course-schedule/)** - course_schedule.py
+*  **[House Robber](https://leetcode.com/problems/house-robber/)** - house_robber.py
+*  **[House Robber II](https://leetcode.com/problems/house-robber-ii/)** - house_robber_ii.py
