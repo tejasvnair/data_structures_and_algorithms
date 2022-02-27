@@ -23,3 +23,4 @@
 *  **[House Robber](https://leetcode.com/problems/house-robber/)** - house_robber.py
 *  **[House Robber II](https://leetcode.com/problems/house-robber-ii/)** - house_robber_ii.py
 *  **[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)** - pacific_atlantic_water_flow.py
+*  **[Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)** - kth_smallest_element_in_a_bst.py
